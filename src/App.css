@@ -1,0 +1,133 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+ margin-left: 405px;
+ position: relative;
+ color: black;
+ font-size: 15px;
+ margin-bottom: -60px; 
+ font-family:  sans-serif;
+}
+
+.logo{
+
+ margin: 0;
+ padding: 0;
+}
+
+.logo1{
+  padding-left: 485px;
+  margin-top: -300px;
+  position: absolute;
+  
+}
+
+
+.about{
+  padding-top: -50px;
+  font-size: 35px;
+  font-family: 'Nunito Sans';
+  font-weight: 900;
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: -340px;
+  padding-left: 185px;
+}
+
+p{
+  font-size: 14px;
+  color: black;
+  font-style: none;
+  margin-top: -10px;
+  padding-left: 162px;
+  position: absolute;
+  display: flex;
+}
+
+.title{
+  padding-top: 50px;
+  text-align: center;
+  font-size: 15px;
+  margin: auto;
+  padding: auto;
+  color: black;
+  font-family: sans-serif;
+  margin-right: 120px;
+}
+
+.section,.p{
+  text-align: center;
+  padding-left: 100px;
+  margin: auto;
+  padding: auto;
+  font-size: 20px;
+}
+
+.logo2{
+  padding-top: 20px;
+  padding-right: 700px;
+}
+
+.column{
+  padding-left: 440px;
+  font-size: 18px;
+  margin-top: -410px;
+}
+
+.section1, .h1{
+ text-align: center;
+ color: rgb(0, 0, 0);
+ padding-top: 190px;
+ margin-left: -800px;
+}
+
+.logo4{
+  padding-left: 800px;
+  margin-top: -100px;
+}
+
+.side, .h1{
+  padding-left: 860px;
+  padding-top: 160px; 
+  
+}
+
+.text{
+  padding-left: 680px;
+  padding-top: 15px;
+}
+
+
+.logo5{
+  padding-left: 90px;
+  margin-top: -170px;
+}
+
+.section3, .h1{
+  text-align: center;
+  padding-top: 35px;
+  
+}
+
+.space1{
+  padding-top: 15px;
+  padding-left: 400px;
+}
+
+.space2{
+  padding-top: 20px;
+}
+
+.login{
+  padding-top: 35px;
+  padding-left: 400px;
+}
+
+.footer{
+  padding-top: 35px;
+  padding-left: 30px;
+}
